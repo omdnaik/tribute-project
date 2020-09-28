@@ -1,0 +1,142 @@
+body {
+    background-color: #121212;
+    color: #d9ecf2;
+}
+
+figure {
+    align-self: center;
+}
+img {
+    width: 447px;
+    max-width: 100%;
+    height: auto;
+    box-shadow: 0px 0px 40px 40px rgba(0, 0, 0, 0.5);
+
+    align-self: center;
+
+}
+
+main {
+    background-color: #3B3B3B;
+    margin: 3% 1% 5% 1%;
+    border-radius: 10px;
+}
+
+#main header h1 {
+    font-size: 87px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+
+#main header p {
+    font-size: larger;
+    padding-top: 0%;
+}
+
+#img-div {
+    width: 90%;
+    height: auto;
+    margin: auto auto auto auto;
+    display: flex;
+    flex-direction: column;
+    padding-top: 5%;
+}
+
+#img-div h2 {
+    font-size: small;
+    text-align: center;
+}
+
+
+header {
+    text-align: center;
+    padding: 3% 1% 0% 1%;
+}
+
+#tribute-info {
+    max-width: 100%;
+    height: auto;
+    padding-bottom: 1%;
+    margin: auto auto auto 10%;
+    line-height: 20px;
+}
+
+#footer {
+    max-width: 100%;
+    height: auto;
+    padding-bottom: 3%;
+    margin: auto auto auto 10%;
+    line-height: 20px;
+}
+
+#tribute-info h2 {
+    margin-bottom: 1%;
+
+}
+
+#tribute-info hr {
+    margin: 0% 10% 1% 0%;
+    border-color: #028FA3;
+}
+
+#debut {
+    text-align: left;
+    padding-inline-start: 30px;
+}
+
+
+
+.format {
+    font-weight: bolder;
+    font-size: smaller;
+    text-align: left;
+}
+
+.info {
+    font-weight: normal;
+    font-size: smaller;
+    text-align: left;
+}
+
+#bat-summary {
+    width: 80%;
+    margin-left: 3%;
+}
+
+#bat-summary tr th {
+    font-weight: bolder;
+    font-size: smaller;
+}
+
+#bat-summary tr td {
+    text-align: center;
+    font-weight: normal;
+    font-size: smaller;
+}
+#bowl-summary {
+    width: 80%;
+    margin-left: 3%;
+}
+
+#bowl-summary tr th {
+    font-weight: bolder;
+    font-size: smaller;
+}
+
+#bowl-summary tr td {
+    text-align: center;
+    font-weight: normal;
+    font-size: smaller;
+}
+
+#timeline{
+    width: 87%;
+    margin-top: 4%;
+    margin-left: 2%;
+}
+
+#tribute-link {
+    color :  #028FA3;
+    text-decoration: none;
+}
